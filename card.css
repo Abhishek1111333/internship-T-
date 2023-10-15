@@ -1,0 +1,40 @@
+ img{
+    width:200Px;
+    top:50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.card{
+    border: 3px solid green;
+    width: 250px;
+    text-align: center;
+    padding: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: brown;
+}
+h1{
+    text-align: center;
+    color: blue;
+    size: 200px;
+}
+.qw{
+    border: 3px solid blanchedalmond;
+    width: 250px;
+    text-align: center;
+ 
+   
+    
+
+}
+p{
+    text-align: center;
+    size: 100px;
+}
+#login{
+    background-color: rgb(36, 53, 230);
+    
+    
+}
